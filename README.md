@@ -60,7 +60,7 @@ endmodule
 
 **Developed by: Ameen Basha A**
 
-**Register Number: 212224230136**
+**Register Number: 212224220008**
 
 **RTL LOGIC FOR 4 Bit Ripple Counter**
 
