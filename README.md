@@ -58,7 +58,7 @@ begin
 endmodule
 ```
 
-**Developed by: N.Lakshanya**
+**Developed by: Ameen Basha A**
 
 **Register Number: 212224230136**
 
